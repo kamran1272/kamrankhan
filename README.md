@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Kamran Khan Banner" width="1200" />
+</p>
+
 # 👋 Hi, I’m Kamran Khan
 
 💻 **Frontend & Full-Stack Developer** specializing in **React.js & Laravel**  
